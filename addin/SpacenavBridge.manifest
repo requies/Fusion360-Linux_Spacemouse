@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "ff4af8a7-2df6-4785-a430-2bcdb5ae5ca6",
+    "author": "Local",
+    "description": {
+        "": "Receives SpaceMouse events from the Linux spacenavd bridge and applies them to the active Fusion viewport."
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac|linux",
+    "editEnabled": true
+}
